@@ -1,5 +1,5 @@
-# PaperBot
-PaperBot mit RGB-LEDs
+# PaperBots
+PaperBots mit RGB-LEDs
 
 ![Bild](pic/P_Bots.png)
 

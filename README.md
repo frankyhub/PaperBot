@@ -15,6 +15,9 @@ PaperBots mit RGB-LEDs
 
 Platine mit RGB-LEDs
 
-![Bild](pic/PaperBot_F.png) ![Bild](pic/PaperBot_B.png)
+![Bild](pic/PaperBot555_F.png) ![Bild](pic/PaperBot555_B.png)
+
+
+![Bild](pic/PaperBotRGB_F.png) ![Bild](pic/PaperBotRGB_B.png)
 
 

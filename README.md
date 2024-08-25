@@ -13,10 +13,11 @@ PaperBots mit RGB-LEDs
 
 ![Bild](pic/P_Bots.png)
 
-Platine mit RGB-LEDs
+Platine mit NE555 blink-LEDs
 
 ![Bild](pic/PaperBot555_F.png) ![Bild](pic/PaperBot555_B.png)
 
+Platine mit RGB-LEDs
 
 ![Bild](pic/PaperBotRGB_F.png) ![Bild](pic/PaperBotRGB_B.png)
 

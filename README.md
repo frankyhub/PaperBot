@@ -22,7 +22,7 @@ PaperBots mit RGB-LEDs
 
 
 Platine mit NE555 blink-LEDs
-
+<br> <br>
 <img src="pic/PaperBot555_F.png" width="250"> <img src="pic/PaperBot555_B.png" width="250"> 
 <br> <br>
 
